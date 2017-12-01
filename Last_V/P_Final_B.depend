@@ -1,0 +1,539 @@
+# depslib dependency file v1.0
+1510284009 source:d:\instaladores\programacion\final\p_final_b\main.cpp
+	<iostream>
+	"pj_v_a.h"
+	"Enemigo.h"
+	"Bomberman.h"
+	"Bomba.h"
+	"Fantasmas.h"
+	"Power_UP.h"
+	"Posicion.h"
+
+1510267837 source:d:\instaladores\programacion\final\p_final_b\dibujo.cpp
+	"Dibujo.h"
+
+1510277331 d:\instaladores\programacion\final\p_final_b\dibujo.h
+	"Posicion.h"
+	<windows.h>
+	<time.h>
+
+1510277247 d:\instaladores\programacion\final\p_final_b\posicion.h
+	<string>
+	<iostream>
+
+1510283589 source:d:\instaladores\programacion\final\p_final_b\pj_v_a.cpp
+	"pj_v_a.h"
+
+1510283221 d:\instaladores\programacion\final\p_final_b\pj_v_a.h
+	"Posicion.h"
+
+1510277247 source:d:\instaladores\programacion\final\p_final_b\posicion.cpp
+	"Posicion.h"
+
+1510283589 source:d:\instaladores\programacion\final\p_final_b\bomberman.cpp
+	"Bomberman.h"
+
+1510283429 d:\instaladores\programacion\final\p_final_b\bomberman.h
+	"pj_v_a.h"
+	"Bomba.h"
+
+1510283977 source:d:\instaladores\programacion\final\p_final_b\fantasmas.cpp
+	"Fantasmas.h"
+
+1510284279 d:\instaladores\programacion\final\p_final_b\fantasmas.h
+	"Enemigo.h"
+
+1510280326 source:d:\instaladores\programacion\final\p_final_b\power_up.cpp
+	"Power_UP.h"
+
+1510280360 d:\instaladores\programacion\final\p_final_b\power_up.h
+	"pj_v_a.h"
+
+1510282321 source:d:\instaladores\programacion\final\p_final_b\bomba.cpp
+	"Bomba.h"
+
+1510282321 d:\instaladores\programacion\final\p_final_b\bomba.h
+	"pj_v_a.h"
+
+1510283807 source:d:\instaladores\programacion\final\p_final_b\enemigo.cpp
+	"Enemigo.h"
+
+1510284265 d:\instaladores\programacion\final\p_final_b\enemigo.h
+	"pj_v_a.h"
+
+1510315583 source:c:\users\jhorel\downloads\allegro en codeblocks\el weon\posicion.cpp
+	"Posicion.h"
+
+1510315583 c:\users\jhorel\downloads\allegro en codeblocks\el weon\posicion.h
+	<string>
+	<iostream>
+
+1510280326 source:c:\users\jhorel\downloads\allegro en codeblocks\el weon\power_up.cpp
+	"Power_UP.h"
+
+1510280360 c:\users\jhorel\downloads\allegro en codeblocks\el weon\power_up.h
+	"pj_v_a.h"
+
+1510286958 c:\users\jhorel\downloads\allegro en codeblocks\el weon\pj_v_a.h
+	"Posicion.h"
+
+1510282321 source:c:\users\jhorel\downloads\allegro en codeblocks\el weon\bomba.cpp
+	"Bomba.h"
+
+1510282321 c:\users\jhorel\downloads\allegro en codeblocks\el weon\bomba.h
+	"pj_v_a.h"
+
+1510311493 source:c:\users\jhorel\downloads\allegro en codeblocks\el weon\enemigo.cpp
+	"Enemigo.h"
+
+1510311493 c:\users\jhorel\downloads\allegro en codeblocks\el weon\enemigo.h
+	"pj_v_a.h"
+
+1510288010 source:c:\users\jhorel\downloads\allegro en codeblocks\el weon\fantasmas.cpp
+	"Fantasmas.h"
+
+1510288009 c:\users\jhorel\downloads\allegro en codeblocks\el weon\fantasmas.h
+	"Enemigo.h"
+
+1510286958 source:c:\users\jhorel\downloads\allegro en codeblocks\el weon\pj_v_a.cpp
+	"pj_v_a.h"
+
+1510314222 source:c:\users\jhorel\downloads\allegro en codeblocks\el weon\bomberman.cpp
+	"Bomberman.h"
+
+1510314924 c:\users\jhorel\downloads\allegro en codeblocks\el weon\bomberman.h
+	"pj_v_a.h"
+
+1510315388 source:c:\users\jhorel\downloads\allegro en codeblocks\el weon\main.cpp
+	<iostream>
+	<allegro.h>
+	"pj_v_a.h"
+	"Enemigo.h"
+	"Bomberman.h"
+	"Bomba.h"
+	"Fantasmas.h"
+	"Power_UP.h"
+	"Posicion.h"
+
+1511750121 source:c:\users\jhorel\desktop\este es el definitivo\enemigo.cpp
+	"Enemigo.h"
+
+1511749975 c:\users\jhorel\desktop\este es el definitivo\enemigo.h
+	"pj_v_a.h"
+
+1511749884 c:\users\jhorel\desktop\este es el definitivo\pj_v_a.h
+	"Posicion.h"
+
+1510316876 c:\users\jhorel\desktop\este es el definitivo\posicion.h
+	<string>
+	<iostream>
+
+1511750130 source:c:\users\jhorel\desktop\este es el definitivo\fantasmas.cpp
+	"Fantasmas.h"
+
+1510316874 c:\users\jhorel\desktop\este es el definitivo\fantasmas.h
+	"Enemigo.h"
+
+1510316874 source:c:\users\jhorel\desktop\este es el definitivo\bomba.cpp
+	"Bomba.h"
+
+1510316874 c:\users\jhorel\desktop\este es el definitivo\bomba.h
+	"pj_v_a.h"
+
+1511749954 source:c:\users\jhorel\desktop\este es el definitivo\bomberman.cpp
+	"Bomberman.h"
+
+1511749884 c:\users\jhorel\desktop\este es el definitivo\bomberman.h
+	"pj_v_a.h"
+
+1511749884 source:c:\users\jhorel\desktop\este es el definitivo\pj_v_a.cpp
+	"pj_v_a.h"
+
+1510316876 source:c:\users\jhorel\desktop\este es el definitivo\posicion.cpp
+	"Posicion.h"
+
+1510316876 source:c:\users\jhorel\desktop\este es el definitivo\power_up.cpp
+	"Power_UP.h"
+
+1510316876 c:\users\jhorel\desktop\este es el definitivo\power_up.h
+	"pj_v_a.h"
+
+1511923310 source:c:\users\jhorel\desktop\este es el definitivo\main.cpp
+	<iostream>
+	"Bomberman.h"
+	"windows.h"
+
+1511913144 source:d:\instaladores\programacion\final\este es el definitivo\bomba.cpp
+	"Bomba.h"
+
+1511913144 d:\instaladores\programacion\final\este es el definitivo\bomba.h
+	"pj_v_a.h"
+
+1511913144 d:\instaladores\programacion\final\este es el definitivo\pj_v_a.h
+	"Posicion.h"
+
+1511913144 d:\instaladores\programacion\final\este es el definitivo\posicion.h
+	<string>
+	<iostream>
+
+1511964198 source:d:\instaladores\programacion\final\este es el definitivo\bomberman.cpp
+	"Bomberman.h"
+
+1511964147 d:\instaladores\programacion\final\este es el definitivo\bomberman.h
+	"pj_v_a.h"
+
+1511913144 source:d:\instaladores\programacion\final\este es el definitivo\enemigo.cpp
+	"Enemigo.h"
+
+1511966271 d:\instaladores\programacion\final\este es el definitivo\enemigo.h
+	"pj_v_a.h"
+
+1511963140 source:d:\instaladores\programacion\final\este es el definitivo\fantasmas.cpp
+	"Fantasmas.h"
+
+1511963140 d:\instaladores\programacion\final\este es el definitivo\fantasmas.h
+	"Enemigo.h"
+	"Posicion.h"
+
+1511966084 source:d:\instaladores\programacion\final\este es el definitivo\main.cpp
+	<iostream>
+	"Controler.h"
+	"Bomberman.h"
+	"windows.h"
+
+1511913144 source:d:\instaladores\programacion\final\este es el definitivo\pj_v_a.cpp
+	"pj_v_a.h"
+
+1511913144 source:d:\instaladores\programacion\final\este es el definitivo\posicion.cpp
+	"Posicion.h"
+
+1511913144 source:d:\instaladores\programacion\final\este es el definitivo\power_up.cpp
+	"Power_UP.h"
+
+1511913144 d:\instaladores\programacion\final\este es el definitivo\power_up.h
+	"pj_v_a.h"
+
+1511964503 source:d:\instaladores\programacion\final\este es el definitivo\controler.cpp
+	"Controler.h"
+
+1511966084 d:\instaladores\programacion\final\este es el definitivo\controler.h
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	"Model.h"
+	"View.h"
+
+1511966196 d:\instaladores\programacion\final\este es el definitivo\model.h
+	<iostream>
+	"Bomberman.h"
+
+1511963947 source:d:\instaladores\programacion\final\este es el definitivo\model.cpp
+	"Model.h"
+
+1511966196 d:\instaladores\programacion\final\este es el definitivo\view.h
+	<iostream>
+
+1511965958 source:d:\instaladores\programacion\final\este es el definitivo\view.cpp
+	"View.h"
+
+1511970991 source:c:\users\alumno-e\downloads\trabajo-final-master\este es el definitivo\bomberman.cpp
+	"Bomberman.h"
+
+1511970991 c:\users\alumno-e\downloads\trabajo-final-master\este es el definitivo\bomberman.h
+	"pj_v_a.h"
+	"Bomba.h"
+
+1511955722 c:\users\alumno-e\downloads\trabajo-final-master\este es el definitivo\pj_v_a.h
+	"Posicion.h"
+
+1511955722 c:\users\alumno-e\downloads\trabajo-final-master\este es el definitivo\posicion.h
+	<string>
+	<iostream>
+
+1511972314 source:c:\users\alumno-e\downloads\trabajo-final-master\este es el definitivo\controler.cpp
+	"Controler.h"
+
+1511968445 c:\users\alumno-e\downloads\trabajo-final-master\este es el definitivo\controler.h
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	"windows.h"
+	"Model.h"
+	"View.h"
+
+1511970138 c:\users\alumno-e\downloads\trabajo-final-master\este es el definitivo\model.h
+	<iostream>
+	"Bomberman.h"
+
+1511970991 c:\users\alumno-e\downloads\trabajo-final-master\este es el definitivo\view.h
+	<iostream>
+
+1511955722 source:c:\users\alumno-e\downloads\trabajo-final-master\este es el definitivo\enemigo.cpp
+	"Enemigo.h"
+
+1511967298 c:\users\alumno-e\downloads\trabajo-final-master\este es el definitivo\enemigo.h
+	"pj_v_a.h"
+
+1511955722 source:c:\users\alumno-e\downloads\trabajo-final-master\este es el definitivo\fantasmas.cpp
+	"Fantasmas.h"
+
+1511955722 c:\users\alumno-e\downloads\trabajo-final-master\este es el definitivo\fantasmas.h
+	"Enemigo.h"
+	"Posicion.h"
+
+1511968473 source:c:\users\alumno-e\downloads\trabajo-final-master\este es el definitivo\main.cpp
+	<iostream>
+	"Controler.h"
+	"Bomberman.h"
+	"windows.h"
+
+1511955722 source:c:\users\alumno-e\downloads\trabajo-final-master\este es el definitivo\model.cpp
+	"Model.h"
+
+1511955722 source:c:\users\alumno-e\downloads\trabajo-final-master\este es el definitivo\pj_v_a.cpp
+	"pj_v_a.h"
+
+1511955722 source:c:\users\alumno-e\downloads\trabajo-final-master\este es el definitivo\posicion.cpp
+	"Posicion.h"
+
+1511955722 source:c:\users\alumno-e\downloads\trabajo-final-master\este es el definitivo\power_up.cpp
+	"Power_UP.h"
+
+1511955722 c:\users\alumno-e\downloads\trabajo-final-master\este es el definitivo\power_up.h
+	"pj_v_a.h"
+
+1511971005 source:c:\users\alumno-e\downloads\trabajo-final-master\este es el definitivo\view.cpp
+	"View.h"
+
+1511967363 source:c:\users\alumno-e\downloads\trabajo-final-master\este es el definitivo\bomba.cpp
+	"Bomba.h"
+
+1511967354 c:\users\alumno-e\downloads\trabajo-final-master\este es el definitivo\bomba.h
+	"pj_v_a.h"
+
+1512084438 source:c:\users\jhorel\documents\trabajo-final\este es el definitivo\bomba.cpp
+	"Bomba.h"
+
+1512084438 c:\users\jhorel\documents\trabajo-final\este es el definitivo\bomba.h
+	"pj_v_a.h"
+
+1511749884 c:\users\jhorel\documents\trabajo-final\este es el definitivo\pj_v_a.h
+	"Posicion.h"
+
+1510316876 c:\users\jhorel\documents\trabajo-final\este es el definitivo\posicion.h
+	<string>
+	<iostream>
+
+1512085585 source:c:\users\jhorel\documents\trabajo-final\este es el definitivo\bomberman.cpp
+	"Bomberman.h"
+
+1512085585 c:\users\jhorel\documents\trabajo-final\este es el definitivo\bomberman.h
+	"pj_v_a.h"
+	"Bomba.h"
+
+1512097460 source:c:\users\jhorel\documents\trabajo-final\este es el definitivo\controler.cpp
+	"Controler.h"
+
+1512097048 c:\users\jhorel\documents\trabajo-final\este es el definitivo\controler.h
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	"windows.h"
+	"Model.h"
+	"View.h"
+
+1512086495 c:\users\jhorel\documents\trabajo-final\este es el definitivo\model.h
+	<iostream>
+	"Bomberman.h"
+
+1512096622 c:\users\jhorel\documents\trabajo-final\este es el definitivo\view.h
+	<iostream>
+
+1511750121 source:c:\users\jhorel\documents\trabajo-final\este es el definitivo\enemigo.cpp
+	"Enemigo.h"
+
+1512084438 c:\users\jhorel\documents\trabajo-final\este es el definitivo\enemigo.h
+	"pj_v_a.h"
+
+1512084438 source:c:\users\jhorel\documents\trabajo-final\este es el definitivo\fantasmas.cpp
+	"Fantasmas.h"
+
+1512084438 c:\users\jhorel\documents\trabajo-final\este es el definitivo\fantasmas.h
+	"Enemigo.h"
+	"Posicion.h"
+
+1512084438 source:c:\users\jhorel\documents\trabajo-final\este es el definitivo\main.cpp
+	<iostream>
+	"Controler.h"
+	"Bomberman.h"
+	"windows.h"
+
+1512086495 source:c:\users\jhorel\documents\trabajo-final\este es el definitivo\model.cpp
+	"Model.h"
+
+1511749884 source:c:\users\jhorel\documents\trabajo-final\este es el definitivo\pj_v_a.cpp
+	"pj_v_a.h"
+
+1510316876 source:c:\users\jhorel\documents\trabajo-final\este es el definitivo\posicion.cpp
+	"Posicion.h"
+
+1512095877 source:c:\users\jhorel\documents\trabajo-final\este es el definitivo\power_up.cpp
+	"Power_UP.h"
+
+1512095854 c:\users\jhorel\documents\trabajo-final\este es el definitivo\power_up.h
+
+1512097749 source:c:\users\jhorel\documents\trabajo-final\este es el definitivo\view.cpp
+	"View.h"
+
+1512087254 source:d:\instaladores\programacion\final\nueva carpeta\este es el definitivo\bomba.cpp
+	"Bomba.h"
+
+1512087254 d:\instaladores\programacion\final\nueva carpeta\este es el definitivo\bomba.h
+	"pj_v_a.h"
+
+1512087254 d:\instaladores\programacion\final\nueva carpeta\este es el definitivo\pj_v_a.h
+	"Posicion.h"
+
+1512087254 d:\instaladores\programacion\final\nueva carpeta\este es el definitivo\posicion.h
+	<string>
+	<iostream>
+
+1512087254 source:d:\instaladores\programacion\final\nueva carpeta\este es el definitivo\bomberman.cpp
+	"Bomberman.h"
+
+1512087254 d:\instaladores\programacion\final\nueva carpeta\este es el definitivo\bomberman.h
+	"pj_v_a.h"
+	"Bomba.h"
+
+1512101083 source:d:\instaladores\programacion\final\nueva carpeta\este es el definitivo\controler.cpp
+	"Controler.h"
+
+1512100019 d:\instaladores\programacion\final\nueva carpeta\este es el definitivo\controler.h
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	"windows.h"
+	<stdlib.h>
+	"Model.h"
+	"View.h"
+
+1512100007 d:\instaladores\programacion\final\nueva carpeta\este es el definitivo\model.h
+	<iostream>
+	"Bomberman.h"
+	"Fantasmas.h"
+
+1512100901 d:\instaladores\programacion\final\nueva carpeta\este es el definitivo\view.h
+	<iostream>
+
+1512101110 source:d:\instaladores\programacion\final\nueva carpeta\este es el definitivo\enemigo.cpp
+	"Enemigo.h"
+
+1512100163 d:\instaladores\programacion\final\nueva carpeta\este es el definitivo\enemigo.h
+	"pj_v_a.h"
+
+1512100094 source:d:\instaladores\programacion\final\nueva carpeta\este es el definitivo\fantasmas.cpp
+	"Fantasmas.h"
+
+1512100094 d:\instaladores\programacion\final\nueva carpeta\este es el definitivo\fantasmas.h
+	"Enemigo.h"
+	"Posicion.h"
+
+1512087254 source:d:\instaladores\programacion\final\nueva carpeta\este es el definitivo\main.cpp
+	<iostream>
+	"Controler.h"
+	"Bomberman.h"
+	"windows.h"
+
+1512087254 source:d:\instaladores\programacion\final\nueva carpeta\este es el definitivo\model.cpp
+	"Model.h"
+
+1512087254 source:d:\instaladores\programacion\final\nueva carpeta\este es el definitivo\pj_v_a.cpp
+	"pj_v_a.h"
+
+1512087254 source:d:\instaladores\programacion\final\nueva carpeta\este es el definitivo\posicion.cpp
+	"Posicion.h"
+
+1512087254 source:d:\instaladores\programacion\final\nueva carpeta\este es el definitivo\power_up.cpp
+	"Power_UP.h"
+
+1512087254 d:\instaladores\programacion\final\nueva carpeta\este es el definitivo\power_up.h
+
+1512100908 source:d:\instaladores\programacion\final\nueva carpeta\este es el definitivo\view.cpp
+	"View.h"
+
+1512087254 source:d:\instaladores\programacion\final\nueva carpeta\nueva carpeta\este es el definitivo\bomba.cpp
+	"Bomba.h"
+
+1512087254 d:\instaladores\programacion\final\nueva carpeta\nueva carpeta\este es el definitivo\bomba.h
+	"pj_v_a.h"
+
+1512087254 d:\instaladores\programacion\final\nueva carpeta\nueva carpeta\este es el definitivo\pj_v_a.h
+	"Posicion.h"
+
+1512087254 d:\instaladores\programacion\final\nueva carpeta\nueva carpeta\este es el definitivo\posicion.h
+	<string>
+	<iostream>
+
+1512087254 source:d:\instaladores\programacion\final\nueva carpeta\nueva carpeta\este es el definitivo\bomberman.cpp
+	"Bomberman.h"
+
+1512087254 d:\instaladores\programacion\final\nueva carpeta\nueva carpeta\este es el definitivo\bomberman.h
+	"pj_v_a.h"
+	"Bomba.h"
+
+1512102442 source:d:\instaladores\programacion\final\nueva carpeta\nueva carpeta\este es el definitivo\controler.cpp
+	"Controler.h"
+
+1512100019 d:\instaladores\programacion\final\nueva carpeta\nueva carpeta\este es el definitivo\controler.h
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	"windows.h"
+	<stdlib.h>
+	"Model.h"
+	"View.h"
+
+1512100007 d:\instaladores\programacion\final\nueva carpeta\nueva carpeta\este es el definitivo\model.h
+	<iostream>
+	"Bomberman.h"
+	"Fantasmas.h"
+
+1512100094 d:\instaladores\programacion\final\nueva carpeta\nueva carpeta\este es el definitivo\fantasmas.h
+	"Enemigo.h"
+	"Posicion.h"
+
+1512100163 d:\instaladores\programacion\final\nueva carpeta\nueva carpeta\este es el definitivo\enemigo.h
+	"pj_v_a.h"
+
+1512100901 d:\instaladores\programacion\final\nueva carpeta\nueva carpeta\este es el definitivo\view.h
+	<iostream>
+
+1512101110 source:d:\instaladores\programacion\final\nueva carpeta\nueva carpeta\este es el definitivo\enemigo.cpp
+	"Enemigo.h"
+
+1512100094 source:d:\instaladores\programacion\final\nueva carpeta\nueva carpeta\este es el definitivo\fantasmas.cpp
+	"Fantasmas.h"
+
+1512087254 source:d:\instaladores\programacion\final\nueva carpeta\nueva carpeta\este es el definitivo\main.cpp
+	<iostream>
+	"Controler.h"
+	"Bomberman.h"
+	"windows.h"
+
+1512087254 source:d:\instaladores\programacion\final\nueva carpeta\nueva carpeta\este es el definitivo\model.cpp
+	"Model.h"
+
+1512087254 source:d:\instaladores\programacion\final\nueva carpeta\nueva carpeta\este es el definitivo\pj_v_a.cpp
+	"pj_v_a.h"
+
+1512087254 source:d:\instaladores\programacion\final\nueva carpeta\nueva carpeta\este es el definitivo\posicion.cpp
+	"Posicion.h"
+
+1512087254 source:d:\instaladores\programacion\final\nueva carpeta\nueva carpeta\este es el definitivo\power_up.cpp
+	"Power_UP.h"
+
+1512087254 d:\instaladores\programacion\final\nueva carpeta\nueva carpeta\este es el definitivo\power_up.h
+
+1512100908 source:d:\instaladores\programacion\final\nueva carpeta\nueva carpeta\este es el definitivo\view.cpp
+	"View.h"
+
