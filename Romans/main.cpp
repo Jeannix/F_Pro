@@ -21,6 +21,7 @@ int suma(int a, int b, int c){
     r=modulo(r,c);
     return r;
 }
+
 int resta(int a, int b, int c){
     int o1=0;
     o1=modulo(a,c);
@@ -42,6 +43,26 @@ int mult(int a, int b, int c){
     return r;
 }
 
+void inversa(int a, int c)
+ {
+     for(int i = 0; i<c; i++)
+     {
+         int x = (a*i)%c;
+         if(x<0)
+         {
+             x = x+c;
+         }
+         if(x==1)
+         {
+             cout<<"\n";
+             cout<<"Resultado: "<<i<<" mod "<<c<<endl;
+             break;
+         }
+         else if(i == c-1 && x!=1){cout<<"No tiene inverso modular \n";}
+     }
+
+ }
+
 void menu(char a){
     cout<<"Ingrese el operador: ";
     cin>>a;
@@ -51,29 +72,32 @@ void menu(char a){
         cin>>f;
         cin>>g;
         cin>>h;
-        cout<<suma(h,f,g);
+        cout<<suma(f,g,h);
     }
     if (a=='-'){
         cout<<"ingrese 3 numeros: "<<endl;
         cin>>f;
         cin>>g;
         cin>>h;
-        cout<<resta(h,f,g);
+        cout<<resta(f,g,h);
     }
     if (a=='*'){
         cout<<"ingrese 3 numeros: "<<endl;
         cin>>f;
         cin>>g;
         cin>>h;
-        cout<<mult(h,f,g);
+        cout<<mult(f,g,h);
+    }
+    if (a=='i'){
+        cout<<"ingrese 2 numeros: "<<endl;
+        cin>>f;
+        cin>>g;
+        inversa(f,g);
     }
 }
 
 int main()
 {
-    cout<<suma(121,22,11);
-    cout<<resta(121,22,11);
-    cout<<mult(121,22,11);
     char b;
     menu(b);
     return 0;
